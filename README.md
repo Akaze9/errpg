@@ -1,6 +1,15 @@
-# ERRPG
+<h1 align="center">
+  <br>
+  ERRPG
+  <br>
+</h1>
+<h4 align="center">A simple RPG tools bot for telegram.</h4>
 
-A simple RPG tools bot for telegram.
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#run-your-own-rpg-bot">Run your own RPG bot</a>
+</p>
 
 ## Key Features
 
@@ -16,6 +25,8 @@ Send messages to [@pi20182_atp_bot](https://t.me/pi20182_atp_bot) with your tele
 
 ### Dice Roller
 
+#### Roll
+
 Command template:
 ```
 roll 2d20
@@ -25,6 +36,16 @@ This returns the result from the roll of 2 dices of 20 faces. If you want the in
 ```
 roll 2d20 all
 ```
+
+### Names generator
+
+#### Nameshelp
+
+#### Names
+
+
+### Ambient Music
+
 
 ## Run your own RPG bot
 
