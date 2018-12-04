@@ -1,0 +1,9 @@
+[Core]
+Name = NamesHelp
+Module = nameshelp_bot
+
+[Python]
+Version = 3
+
+[Documentation]
+Description = Name bank step-by-step

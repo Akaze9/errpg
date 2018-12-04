@@ -1,0 +1,9 @@
+[Core]
+Name = Name
+Module = name
+
+[Python]
+Version = 3
+
+[Documentation]
+Description = Character name bank test

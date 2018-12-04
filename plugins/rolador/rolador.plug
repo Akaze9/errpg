@@ -1,0 +1,9 @@
+[Core]
+Name = Rolador
+Module = rolador
+
+[Python]
+Version = 3
+
+[Documentation]
+Description = Rolador de dados

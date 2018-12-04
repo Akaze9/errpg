@@ -1,0 +1,9 @@
+[Core]
+Name = MusicFlow
+Module = music_flow
+
+[Python]
+Version = 3
+
+[Documentation]
+Description = flow para a musica

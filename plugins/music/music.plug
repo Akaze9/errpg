@@ -1,0 +1,9 @@
+[Core]
+Name = Music
+Module = music
+
+[Python]
+Version = 3
+
+[Description]
+Documentation = Musica para ambientacao

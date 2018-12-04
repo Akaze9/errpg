@@ -1,0 +1,9 @@
+[Core]
+Name = NameshelpFlow
+Module = nameshelp_flow
+
+[Python]
+Version = 3
+
+[Documentation]
+Description = Name bank step-by-step
