@@ -17,8 +17,8 @@
   - Roll any dice
 * Names generator
 * Ambient Music
-  - Choose the right music to your situation
-  
+  - Choose the right music for your situation
+   
 ## Usage
 
 Send messages to [@pi20182_atp_bot](https://t.me/pi20182_atp_bot) with your telegram account.
@@ -27,11 +27,12 @@ Send messages to [@pi20182_atp_bot](https://t.me/pi20182_atp_bot) with your tele
 
 #### Roll
 
-Command template:
+The following command returns the result from the roll of 2 dices of 20 faces:
+
 ```
 roll 2d20
 ```
-This returns the result from the roll of 2 dices of 20 faces. If you want the individual result of each dice:
+If you want the individual result of each dice:
 
 ```
 roll 2d20 all
@@ -41,8 +42,13 @@ roll 2d20 all
 
 #### Nameshelp
 
+The following commands asks questions one by one
 
-
+```
+nameshelp
+```
+  
+  
 #### Names
 
 
