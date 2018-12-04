@@ -14,7 +14,7 @@ A simple RPG tools bot for telegram.
 
 Send messages to [@pi20182_atp_bot](https://t.me/pi20182_atp_bot) with your telegram account.
 
-# Dice Roller
+### Dice Roller
 
 Command template:
 ```
