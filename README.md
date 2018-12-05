@@ -68,7 +68,7 @@ Firstly, you'll need to have [Errbot](http://errbot.io/en/latest/user_guide/setu
 
 | <a href="https://github.com/Akaze9" target="_blank">**Augusto Rodrigues**</a> | <a href="https://github.com/Akaze9" target="_blank">**Bruno Mendes**</a> | <a href="https://github.com/NunesLaura" target="_blank">**Laura Nunes**</a> | <a href="https://github.com/damasion" target="_blank">**Vinicius Damasio**</a> |
 | :---: |:---:| :---:| :---:|
-| [![Augusto Rodrigues](https://avatars1.githubusercontent.com/u/39605868?s=200&v=4)](https://github.com/Akaze9)    | [![Bruno Mendes](https://avatars1.githubusercontent.com/u/44903538?s=200&v=4)](https://github.com/b2m1) | [![Laura Nunes](https://avatars1.githubusercontent.com/u/45634450?s=200&v=4)](https://github.com/NunesLaura)  | [![Vinicius Damasio](https://avatars3.githubusercontent.com/u/45634335?s=200&v=4)](https://github.com/damasion)  |
+| [![Augusto Rodrigues](https://avatars1.githubusercontent.com/u/39605868?&v=4?s=200)](https://github.com/Akaze9)    | [![Bruno Mendes](https://avatars1.githubusercontent.com/u/44903538?v=4&s=200)](https://github.com/b2m1) | [![Laura Nunes](https://avatars1.githubusercontent.com/u/45634450?&v=4?s=200)](https://github.com/NunesLaura)  | [![Vinicius Damasio](https://avatars3.githubusercontent.com/u/45634335?v=4?s=200)](https://github.com/damasion)  |
 | <a href="https://github.com/Akaze9" target="_blank">`github.com/Akaze9`</a> | <a href="https://github.com/b2m1" target="_blank">`github.com/b2m1`</a> | <a href="https://github.com/NunesLaura" target="_blank">`github.com/NunesLaura`</a> | <a href="https://github.com/damasion" target="_blank">`github.com/damasion`</a> |
 
 
