@@ -5,7 +5,7 @@ class Music(BotPlugin):
     @botcmd
     def musics(self, msg, args):
         'Pergunta o tema da musica'
-        yield'Escolha o tema da musica: Medieval\nConteporanea'
+        yield'Escolha o tema da musica: Medieval\nContemporanea'
     
 
     @botmatch(r'.*$', flow_only=True)
