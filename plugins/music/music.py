@@ -13,7 +13,7 @@ class Music(BotPlugin):
         'faz algo '
         global tem
         tem = match.string.capitalize()
-        if tem == 'Conteporanea':
+        if tem == 'Contemporanea':
             yield 'olha essa musica legal demais'
             self.send_stream_request(msg.frm, open('audio/miniboi.mp3', 'rb'),
                                      name='miniboi.mp3', stream_type='audio')
