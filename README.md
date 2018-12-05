@@ -8,7 +8,9 @@
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#usage">Usage</a> •
-  <a href="#run-your-own-rpg-bot">Run your own RPG bot</a>
+  <a href="#run-your-own-rpg-bot">Run your own RPG bot</a> •
+  <a href="#team">Team</a>
+  
 </p>
 
 ## Key Features
@@ -48,9 +50,12 @@ The following commands asks questions one by one
 nameshelp
 ```
   
-  
 #### Names
 
+```
+names X Y ...
+```
+X, Y and so on can be context, race, nationality and sex. 
 
 ### Ambient Music
 
@@ -58,3 +63,15 @@ nameshelp
 ## Run your own RPG bot
 
 Firstly, you'll need to have [Errbot](http://errbot.io/en/latest/user_guide/setup.html) installed on your machine.
+
+## Team
+
+| <a href="https://github.com/Akaze9" target="_blank">**Augusto Rodrigues**</a> | <a href="https://github.com/Akaze9" target="_blank">**Bruno Mendes**</a> | <a href="http://fvcproductions.com" target="_blank">**Laura Nunes**</a> | <a href="https://github.com/damasion" target="_blank">**Vinicius Damasio**</a> |
+| :---: |:---:| :---:| :---:|
+| [![Augusto Rodrigues](https://avatars1.githubusercontent.com/u/39605868?s=200&v=4)](https://github.com/Akaze9)    | [![Bruno Mendes](https://avatars1.githubusercontent.com/u/44903538?s=200&v=4)](https://github.com/b2m1) | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)  | [![Vinicius Damasio](https://avatars3.githubusercontent.com/u/45634335?s=200&v=4)](https://github.com/damasion)  |
+| <a href="https://github.com/Akaze9" target="_blank">`github.com/Akaze9`</a> | <a href="https://github.com/b2m1" target="_blank">`github.com/b2m1`</a> | <a href="https://github.com/LAURA" target="_blank">`github.com/LAURA`</a> | <a href="https://github.com/damasion" target="_blank">`github.com/damasion`</a> |
+
+
+## License
+
+[MIT license](https://github.com/Akaze9/errpg/blob/master/LICENSE)
