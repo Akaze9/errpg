@@ -27,8 +27,6 @@ Send messages to [@pi20182_atp_bot](https://t.me/pi20182_atp_bot) with your tele
 
 ### Dice Roller
 
-#### Roll
-
 The following command returns the result from the roll of 2 dices of 20 faces:
 
 ```
@@ -55,10 +53,13 @@ nameshelp
 ```
 names X Y ...
 ```
-X, Y and so on can be context, race, nationality and sex. 
+X, Y, and so on can be context, race, nationality and sex. 
 
 ### Ambient Music
 
+```
+musics
+```
 
 ## Run your own RPG bot
 
