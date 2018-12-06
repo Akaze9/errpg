@@ -23,7 +23,7 @@
    
 ## Usage
 
-Send messages to [@pi20182_atp_bot](https://t.me/pi20182_atp_bot) with your telegram account.
+You just need to /start a conversation with [@pi20182_atp_bot](https://t.me/pi20182_atp_bot) on telegram account.
 
 ### Dice Roller
 
@@ -63,10 +63,10 @@ musics
 ```
 
 
+<!--
 ## Run your own RPG bot
-
 Firstly, you'll need to have [Errbot](http://errbot.io/en/latest/user_guide/setup.html) installed on your machine...
-
+-->
 ## Team
 
 | <a href="https://github.com/Akaze9" target="_blank">**Augusto Rodrigues**</a> | <a href="https://github.com/Akaze9" target="_blank">**Bruno Mendes**</a> | <a href="https://github.com/NunesLaura" target="_blank">**Laura Nunes**</a> | <a href="https://github.com/damasion" target="_blank">**Vinicius Damasio**</a> |
