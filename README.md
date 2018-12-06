@@ -19,7 +19,7 @@
 ## Features
 
 * Dice roller
-  - Roll any dice
+  - Roll any type of dice as many times as you want
 * Names generator
 * Ambient Music
   - Choose the right music for your situation
@@ -43,6 +43,13 @@ roll 2d20 all
 
 ### Names generator
 
+#### Names
+
+```
+names X Y ...
+```
+X, Y, and so on can be context, race, nationality and sex. 
+
 #### Nameshelp
 
 The nameshelp command asks questions one by one. You can begin with this to know about the available races and nationalities:
@@ -51,16 +58,10 @@ The nameshelp command asks questions one by one. You can begin with this to know
 nameshelp
 ```
   
-#### Names
-
-```
-names X Y ...
-```
-X, Y, and so on can be context, race, nationality and sex. 
 
 ### Ambient Music
 
-The musics command asks you step by step the music of your choice.
+You can use the musics command to find the music of your choice, step by step.
 ```
 musics
 ```
