@@ -1,6 +1,8 @@
 <h1 align="center">
   <br>
-  ERRPG
+  <a href="https://t.me/pi20182_atp_bot"><img src="https://i.imgur.com/JZVXFnZ.png" alt="ErRPG" width="300"></a>
+  <br>
+  ErRPG
   <br>
 </h1>
 <h4 align="center">A simple RPG tools bot for telegram.</h4>
