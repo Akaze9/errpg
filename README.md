@@ -8,7 +8,7 @@
 <h4 align="center">A simple RPG tools bot for telegram.</h4>
 
 <p align="center">
-  <a href="#features">Key Features</a> •
+  <a href="#features">Features</a> •
   <a href="#usage">Usage</a> •
 <!--  <a href="#run-your-own-rpg-bot">Run your own RPG bot</a> • -->
   <a href="#team">Team</a>
