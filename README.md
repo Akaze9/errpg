@@ -63,7 +63,7 @@ musics
 
 ## Run your own RPG bot
 
-Firstly, you'll need to have [Errbot](http://errbot.io/en/latest/user_guide/setup.html) installed on your machine.
+Firstly, you'll need to have [Errbot](http://errbot.io/en/latest/user_guide/setup.html) installed on your machine...
 
 ## Team
 
