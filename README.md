@@ -8,7 +8,7 @@
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#usage">Usage</a> •
-  <a href="#run-your-own-rpg-bot">Run your own RPG bot</a> •
+<!--  <a href="#run-your-own-rpg-bot">Run your own RPG bot</a> • -->
   <a href="#team">Team</a>
   
 </p>
