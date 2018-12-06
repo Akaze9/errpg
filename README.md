@@ -42,7 +42,7 @@ roll 2d20 all
 
 #### Nameshelp
 
-The following commands asks questions one by one
+The nameshelp command asks questions one by one. You can begin with this to know about the available races and nationalities:
 
 ```
 nameshelp
@@ -57,9 +57,11 @@ X, Y, and so on can be context, race, nationality and sex.
 
 ### Ambient Music
 
+The musics command asks you step by step the music of your choice.
 ```
 musics
 ```
+
 
 ## Run your own RPG bot
 
