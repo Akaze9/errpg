@@ -36,6 +36,7 @@ The following command returns the result from the roll of 2 dices of 20 faces:
 roll 2d20
 ```
 However, if you prefer to get the individual result of each dice, just add "all" to your command:  
+  
 ![roll all example](https://i.imgur.com/O3jlmdq.png)
 
 ### Names generator
@@ -59,6 +60,7 @@ nameshelp
 ### Ambient Music
 
 In addition, you can also use the musics command to find the music of your choice, step by step.
+  
 ![musics example](https://i.imgur.com/uxeL3M3.png)
 
 <!--
