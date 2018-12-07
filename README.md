@@ -76,4 +76,4 @@ Firstly, you'll need to have [Errbot](http://errbot.io/en/latest/user_guide/setu
 
 ## License
 
-- [MIT license](https://github.com/Akaze9/errpg/blob/master/LICENSE)
+[MIT license](https://github.com/Akaze9/errpg/blob/master/LICENSE)
