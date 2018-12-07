@@ -35,11 +35,8 @@ The following command returns the result from the roll of 2 dices of 20 faces:
 ```
 roll 2d20
 ```
-If you want the individual result of each dice:
-
-```
-roll 2d20 all
-```
+However, if you prefer to get the individual result of each dice, just add "all" to your command:  
+![roll all example](https://i.imgur.com/O3jlmdq.png)
 
 ### Names generator
 
@@ -61,11 +58,8 @@ nameshelp
 
 ### Ambient Music
 
-You can use the musics command to find the music of your choice, step by step.
-```
-musics
-```
-
+In addition, you can also use the musics command to find the music of your choice, step by step.
+![musics example](https://i.imgur.com/uxeL3M3.png)
 
 <!--
 ## Run your own RPG bot
@@ -77,7 +71,6 @@ Firstly, you'll need to have [Errbot](http://errbot.io/en/latest/user_guide/setu
 | :---: |:---:| :---:| :---:|
 | [![Augusto Rodrigues](https://avatars1.githubusercontent.com/u/39605868?&v=4?s=200)](https://github.com/Akaze9)    | [![Bruno Mendes](https://avatars1.githubusercontent.com/u/44903538?v=4&s=200)](https://github.com/b2m1) | [![Laura Nunes](https://avatars1.githubusercontent.com/u/45634450?&v=4?s=200)](https://github.com/NunesLaura)  | [![Vinicius Damasio](https://avatars3.githubusercontent.com/u/45634335?v=4?s=200)](https://github.com/damasion)  |
 | <a href="https://github.com/Akaze9" target="_blank">`github.com/Akaze9`</a> | <a href="https://github.com/b2m1" target="_blank">`github.com/b2m1`</a> | <a href="https://github.com/NunesLaura" target="_blank">`github.com/NunesLaura`</a> | <a href="https://github.com/damasion" target="_blank">`github.com/damasion`</a> |
-
 
 ## License
 
