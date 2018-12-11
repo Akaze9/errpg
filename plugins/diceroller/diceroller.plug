@@ -1,0 +1,9 @@
+[Core]
+Name = DiceRoller
+Module = diceroller
+
+[Python]
+Version = 3
+
+[Documentation]
+Description = Dice roller
