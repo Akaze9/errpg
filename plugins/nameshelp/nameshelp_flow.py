@@ -6,7 +6,8 @@ class NameshelpFlow(BotFlow):
 
     @botflow
     def example(self, flow: FlowRoot):
+        'Description'
         first_step = flow.connect('nameshelp', auto_trigger=True)
-        second_step = first_step.connect('first')
-        third_step = second_step.connect('second')
-        fourth_step = third_step.connect('third')
+        second_step = first_step.connect('aaa')
+        third_step = second_step.connect('bbb')
+        fourth_step = third_step.connect('ccc')
