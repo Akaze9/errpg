@@ -50,7 +50,7 @@ X, Y, and so on can be context, race, nationality and sex.
 
 #### Nameshelp
 
-The nameshelp command asks questions one by one. You can begin with this to know about the available races and nationalities:
+The nameshelp command asks questions one by one. You can begin with this to **know about the available races and nationalities**:
 
 ```
 nameshelp
