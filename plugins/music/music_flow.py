@@ -5,6 +5,8 @@ class MusicFlow(BotFlow):
     'flow para a musica'
 
     @botflow
-    def example(self, flow: FlowRoot):
-        first_step = flow.connect('musics', auto_trigger=True)
-        second_step = first_step.connect('seila')
+    def musics_flow(self, flow: FlowRoot):
+        'Musics flow'
+        fruta = flow.connect('musics', auto_trigger=True)
+        verdura = fruta.connect('seila')
+        vegetal = verdura.connect('papagaio')
