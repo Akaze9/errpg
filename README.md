@@ -12,7 +12,8 @@
   <a href="#usage">Usage</a> •
 <!--  <a href="#run-your-own-rpg-bot">Run your own RPG bot</a> • -->
   <a href="#team">Team</a> •
-  <a href="#license">License</a>
+  <a href="#license">License</a> •
+Server Status: Offline
   
 </p>
 
